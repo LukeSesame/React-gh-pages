@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/LukeSesame/leprojet/static/css/main.182e5b55.chunk.css",
+    "main.js": "/LukeSesame/leprojet/static/js/main.b1d54d79.chunk.js",
+    "main.js.map": "/LukeSesame/leprojet/static/js/main.b1d54d79.chunk.js.map",
+    "runtime-main.js": "/LukeSesame/leprojet/static/js/runtime-main.dc157e63.js",
+    "runtime-main.js.map": "/LukeSesame/leprojet/static/js/runtime-main.dc157e63.js.map",
+    "static/js/2.53333b87.chunk.js": "/LukeSesame/leprojet/static/js/2.53333b87.chunk.js",
+    "static/js/2.53333b87.chunk.js.map": "/LukeSesame/leprojet/static/js/2.53333b87.chunk.js.map",
+    "index.html": "/LukeSesame/leprojet/index.html",
+    "static/css/main.182e5b55.chunk.css.map": "/LukeSesame/leprojet/static/css/main.182e5b55.chunk.css.map",
+    "static/js/2.53333b87.chunk.js.LICENSE.txt": "/LukeSesame/leprojet/static/js/2.53333b87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc157e63.js",
+    "static/js/2.53333b87.chunk.js",
+    "static/css/main.182e5b55.chunk.css",
+    "static/js/main.b1d54d79.chunk.js"
+  ]
+}
