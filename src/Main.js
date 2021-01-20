@@ -9,7 +9,7 @@ import {
     import Contact from "./Contact";
     import Formulaire from "./Formulaire"
     import Galerie from "./Galerie"
-    import MapContainer from "./Contact"
+    
 class Main extends Component {
 render() {
 return (
